@@ -24,11 +24,8 @@ public class MainActivity extends Activity {
 =======
         //CAMARA
         //CAMBIO PARA GITHUB
-        //CAMARA
-        //CAMBIO PARA GITHUB
-        //CAMARA
-        //CAMBIO PARA GITHUB
->>>>>>> origin/master
+     
+
 
         pic.setOnClickListener(new View.OnClickListener() {
             @Override
