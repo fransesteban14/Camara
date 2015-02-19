@@ -19,7 +19,16 @@ public class MainActivity extends Activity {
         Button pic = (Button)findViewById(R.id.button);
         //CAMARA
         //CAMBIO PARA GITHUB
+<<<<<<< HEAD
        
+=======
+        //CAMARA
+        //CAMBIO PARA GITHUB
+        //CAMARA
+        //CAMBIO PARA GITHUB
+        //CAMARA
+        //CAMBIO PARA GITHUB
+>>>>>>> origin/master
 
         pic.setOnClickListener(new View.OnClickListener() {
             @Override
